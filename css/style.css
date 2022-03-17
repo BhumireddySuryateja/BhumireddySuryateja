@@ -1,0 +1,49 @@
+.from_center{
+    text-align: center;
+    border: 1px solid;
+    margin: 80px 20px 40px 60px;
+}
+
+.form_class{
+    display: contents;
+}
+.banner{
+    background-image: url(../images/Foodbanner.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+#page_title{
+    color: #000;
+    text-align: center;
+    padding-top: 250px;
+    font-style: italic;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+.left {
+    /*background-color: aqua; */
+    /* margin-right: 1000px; */
+    width: 200px;
+    display: inline-block;
+      
+  }
+.right {
+    display: inline-block;
+}
+h2{
+    color: crimson;
+    font-size: 84px;
+}
+.sideline{
+    text-align:right;
+    font-size: 28px
+}.creataccountline{
+    text-align: right;
+    font-size: 28px
+}
