@@ -47,3 +47,14 @@ h2{
     text-align: right;
     font-size: 28px
 }
+.menu_top{
+    display: block;
+    list-style: none;
+}
+.menu_item{
+    display: inline-block;
+    padding: 0 10px;
+}
+.menu_item a{
+    text-decoration: none;
+}
